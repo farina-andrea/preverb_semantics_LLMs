@@ -28,4 +28,4 @@ Each file contains the model's predictions, including the target verb, the conte
 
 If you use the data or code from this repository in your research, please cite our paper:
 
-[To be updated after publication]
+Farina, A. & Ciletti, M. (2025). Probing Preverbs: Evaluating Large Language Models on Latin and Ancient Greek Preverbed Motion Verbs. _Proceedings of Historical Languages and AI_. March 5–6, 2026, Humboldt University Berlin (Germany).
